@@ -64,67 +64,67 @@ function App() {
       "heading": "LANDING PAGE DESIGNING",
       "subheading": "Get a Eye-catching High-Converting Landing page that is oriented towards the goal of your coaching.",
       "price": "10,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-5.png"
     },
     {
       "heading": "PERSONAL WEBSITE",
       "subheading": "Take your personal branding to the next level with a professional website tailored specifically for you.",
       "price": "20,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-4.png"
     },
     {
       "heading": "AD VIDEO & WEBINAR SALES SCRIPT",
       "subheading": "Get 1-1 Discussion with The Rahul Awasthi himself and get a detailed Ad Video Script & Webinar Sales Pitch.",
       "price": "6,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-11.png"
     },
     {
       "heading": "AD MANAGEMENT",
       "subheading": "Get the High Quality - High Converting Leads for your webinar and flourish your webinars like never before",
       "price": "10,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-8.png"
     },
     {
       "heading": "SOCIAL MEDIA MANAGEMENT",
       "subheading": "We'll Manage your Social Media, The key to your strong branding and letting the world know about your coaching.",
       "price": "10,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-6.png"
     },
     {
       "heading": "WHATSAPP MARKETING SETUP",
       "subheading": "Unlock the power of the most powerful platform for Engaging Your Leads and increase your webinar show up rates like never before.",
       "price": "3,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-10.png"
     },
     {
       "heading": "COURSE AND OFFER CREATION",
       "subheading": "Build a strong foundation for your coaching business by designing attractive courses and offers with The Rahul Awasthi himself.",
       "price": "8,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/shadow-3.png"
     },
     {
       "heading": "E-MAIL MARKETING SETUP",
       "subheading": "Explore Your Leads and send timely follow ups.",
       "price": "3,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-9.png"
     },
     {
       "heading": "1-1 MENTORSHIP SESSIONS",
       "subheading": "Get 1-1 Mentorship Sessions with The Rahul Awasthi himself.",
       "price": "20,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/PRODUCT-BOX-13.png"
     },
     {
       "heading": "LMS SETUP",
       "subheading": "The key for a successful coaching business is building an seamless delivery system that is easy to use. Let's setup it together.",
       "price": "5,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/PRODUCT-BOX-15.png"
     },
     {
       "heading": "FUNNEL SETUP & AUTOMATION",
       "subheading": "Learn how to Build future ready system that minimize your efforts and maximize the number of leads over time with the mentorship of The Rahul Awasthi himself.",
       "price": "5,000",
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Background-3.png"
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/PRODUCT-BOX-14.png"
     },
 
   ]
@@ -132,7 +132,7 @@ function App() {
 
   const TeacherData = [
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/DJ-Jain-1.jpg",
       "name": "Deepak Jain",
       "desination": "Business Coach"
     },
@@ -142,52 +142,52 @@ function App() {
       "desination": "Reiki Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Varsha-Kandhari-1.jpg",
       "name": "Varsha Kandhari",
       "desination": "Love Manifestation Coachi Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Rupa-1.jpg",
       "name": "Rupa Singh",
       "desination": "AI & Data Science Expert"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/Juliet-2048x2048.jpg",
       "name": "Juliet Rodrigues",
       "desination": "Human Resource Expert and Trainer"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/Meraj-Raheman.jpg",
       "name": "Dr. Meraj Raheman",
       "desination": "Diabetic Reversal & Wellness Coachh"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/Reetha.jpg",
       "name": "Reetha Gopalakrishnan",
       "desination": "Corporate Communication Expert and Corporate Trainer"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/Dev-OM-1.jpg",
       "name": "Master Dev OM",
       "desination": "Meditation and Mindfulness Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/SJ-DP-1024x1024-1.png",
       "name": "Suman Joseph",
       "desination": "Parenting Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/photo-dr-bsr-1.jpg",
       "name": "Dr. Bhawani Singh Rathore",
       "desination": "Renewable Energy Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/deepika.jpg",
       "name": "Deepika Bhatia",
       "desination": "Energy Healing Coach"
     },
     {
-      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/05/Dr.-Puran-Sharma-1.jpg",
+      "image": "https://cdn-ilajebb.nitrocdn.com/wGFtqfgKtokGEDWasoQhcaTkMaHhbUSN/assets/images/optimized/rev-7f9434c/therahulawasthi.com/wp-content/uploads/2024/06/Acharya-Pandit.jpg",
       "name": "Acharya Adarshh Panndey",
       "desination": "Numerlogy Coach"
     },
@@ -208,6 +208,35 @@ function App() {
     {
       quest: "Why does this program is free?",
       ans: "I have seen many people struggling to start due to lack of knowledge and right tools. I am trying to help you here."
+    },
+    {
+      quest: "Will I get the recording of the Webinar?",
+      ans: "This is a live webinar where Rahul Awasthi will be training. So no recording will be provided."
+    }, {
+      quest: "Who is this webinar ideal for?",
+      ans: "This webinar is for you, if you are a skill expert, coach, consultatnt, trainer or  if you wish to become one and make money selling your courses and digital products online."
+    }, {
+      quest: "Is this webinar is live of prerecorded ?",
+      ans: "This is live interactive webinar"
+    }, {
+      quest: "What do I need to keep handy during the webinar?",
+      ans: "Just an open mind and a book to make a lot of notes."
+    }, {
+      quest: "Do I need any technical skills to use your services?",
+      ans: "No technical skills are required. Our team handles all the technical aspects of setting up and automating your coaching business, allowing you to focus on your expertise and coaching."
+    },
+    {
+      quest: "How much does the service package cost?",
+      ans: "The cost of our service package varies based on the specific needs and goals of your business. We offer a range of packages to suit different budgets. Please schedule a free consultation to discuss your needs and get a personalized quote."
+    },{
+      quest: "What results can I expect from your service?",
+      ans: "While results can vary based on individual effort and market conditions, our clients typically see significant improvements in their business operations, client acquisition, and revenue. We use proven strategies to help you achieve sustainable growth."
+    },{
+      quest: "Is there a money-back guarantee?",
+      ans: "We are committed to your satisfaction and success. Specific terms and conditions regarding refunds and guarantees will be discussed during our consultation. We strive to ensure you are fully confident in our services before moving forward."
+    },{
+      quest: "Contact Us",
+      ans: "If you have any other questions or need further information, please feel free to contact us at email@therahulawasthi.com or +91 8299-854877. We’re here to help you succeed!"
     },
 
 
