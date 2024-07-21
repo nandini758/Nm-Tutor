@@ -10,7 +10,7 @@ const Faq = ({ data }) => {
 
     return (
         <div>
-            <div onClick={handleAns} className='bg-[#F8AF1D] text-[18px] font-medium py-2 px-5  cursor-pointer'>
+            <div onClick={handleAns} className='bg-[#F8AF1D] button text-[18px] font-medium py-2 px-5  cursor-pointer'>
                 <span>{open ? ">" : "<"}</span>{" "}
                 {data.quest}</div>
 
