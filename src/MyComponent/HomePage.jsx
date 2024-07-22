@@ -1,4 +1,10 @@
+import { useNavigate } from "react-router-dom";
+
 function HomePqage() {
+  const navigate = useNavigate();
+    function handleClick(){
+        navigate('/Register');
+    }
   return (
     <div className="flex overflow-hidden relative flex-col items-center pt-1 pb-3.5 text-center text-white min-h-[217px] bg-black"  >
       <div className="flex relative flex-col items-center max-w-full w-[977px]">
@@ -56,9 +62,9 @@ function HomePqage() {
                 </div>
               </div>
               <div className="flex flex-col justify-center self-center mt-5 max-w-full text-2xl font-black leading-7 uppercase shadow-sm bg-white bg-opacity-0 text-stone-900 w-[402px]">
-                <div className="justify-center px-16 py-5 bg-amber-400 rounded shadow-sm max-md:pr-5 max-md:pl-6">
+                <button onClick={handleClick} className="justify-center px-16 py-5 bg-amber-400 rounded shadow-sm max-md:pr-5 max-md:pl-6">
                   Register For Free
-                </div>
+                </button>
               </div>
               <div className="self-center mt-6 text-2xl font-semibold leading-9">
                 📢 Sign up now Seats are limited
