@@ -457,7 +457,7 @@ function Main() {
         </div>
       </div>
 
-      <Thank />
+      {/* <Thank /> */}
       {/* <Register /> */}
 
 

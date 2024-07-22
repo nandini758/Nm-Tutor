@@ -1,7 +1,9 @@
 import React, { useState } from 'react'
 import { db } from '../firebase'
 import { collection, addDoc } from 'firebase/firestore';
+import { useNavigate } from 'react-router-dom';
 const Register = () => {
+    const navigate= useNavigate();
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -17,7 +19,8 @@ const Register = () => {
         e.preventDefault();
         try {
             await addDoc(collection(db, 'contacts'), formData);
-            alert('Message sent successfully!');
+            navigate('/Thankyou')
+            // alert('Message sent successfully!');
             setFormData({
                 name: '',
                 email: '',

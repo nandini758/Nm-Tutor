@@ -29,16 +29,16 @@ import { getFirestore } from 'firebase/firestore';
 // };
 
 
-const firebaseConfig =  {
-    apiKey: "AIzaSyCjZMBE05gCzSYQ1rZHVSXl8i7z8ESAXkE",
-    authDomain: "nm-tutor-cc11d.firebaseapp.com",
-    projectId: "nm-tutor-cc11d",
-    storageBucket: "nm-tutor-cc11d.appspot.com",
-    messagingSenderId: "197619156215",
-    appId: "1:197619156215:web:6b81cedf7123730d2bfff2",
-    measurementId: "G-YW3FNE4XV5"
+const firebaseConfig = {
+    apiKey: "AIzaSyBRV1_-veB5sVI3xWhetFJoDXuXrOAQ7Y4",
+    authDomain: "fir-tutor-4e2a7.firebaseapp.com",
+    projectId: "fir-tutor-4e2a7",
+    storageBucket: "fir-tutor-4e2a7.appspot.com",
+    messagingSenderId: "186442591839",
+    appId: "1:186442591839:web:d33371cc422ce9d15435ea",
+    measurementId: "G-002RVY0WHW"
   };
-    
+  
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
